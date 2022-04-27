@@ -1,0 +1,131 @@
+html{
+  padding: 0%;
+  margin: -50px;
+}
+
+
+.img-logo {
+  width: 65px;
+  position: absolute;
+  }
+  .img-person {
+    margin-top: 100%;
+  }
+  .header h3 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 67px;
+  }
+
+
+  .header p {
+    font-size: 20px;
+  }
+  
+  .header .col-4 {
+    padding: 0px;
+  }
+  .header .col-8 {
+    padding-left: 0px;
+    margin-bottom: 14px;
+
+  }
+  .img-arrow {
+    margin-top: 11px;
+    
+  }
+.container {
+  padding: 0px;
+  width: 80%;
+  margin: 0 auto;
+  max-width: 420px;
+  padding:2rem 2rem;
+  }
+ .container .row{
+   margin-top: 5px;
+ }
+  .list {
+    cursor: pointer;
+  }
+  .list-header h4 {
+    font-weight: bold;
+  }
+
+  .icon-round {
+    width: 60px;
+    height: 60px;
+    border-radius: 100px;
+  }
+
+  .list h5 {
+    font-size: 19px;
+    font-weight: bold;
+    margin-bottom: 3px;
+  }
+  .list p {
+    font-size: 18px;
+  }
+  
+  .row.list {
+    border-bottom: 1px solid #adb5bd75;
+    padding-top: 20px;
+    padding-bottom: 10px;
+  }
+
+ 
+.item-list li .row{
+   margin-bottom: 8px;
+}
+.modal-dialog {
+  height: 100%;
+  background-color: #fff;
+  
+}
+.modal-body{
+  padding: 3rem;
+}
+
+.modal-content{
+  border:none;
+}
+
+/* .question img{
+  width: 30vh;
+  margin: 40px 1rem;
+} */
+
+
+.bottom {
+  position: absolute;
+  bottom: 31px;
+  width: 371px;
+  max-width: 80%;
+  top: 50%;
+  left: 50%;
+  margin-top: 29rem;
+  margin-left: -37%;
+}
+
+
+.question img {
+  position: absolute;
+  width: 55%;
+  margin: 21% auto;
+  top: 40%;
+  left: 50%;
+  margin-left: -33%;
+  margin-top:25%
+
+}
+.question h3 {
+  font-weight: bold;
+ 
+}
+
+.question .row{
+  display:none;
+}
+
+.question .active{
+  display: block;
+}
